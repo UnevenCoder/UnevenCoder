@@ -10,6 +10,8 @@ I am 15 yo web dev ... youtuber cuz of hobby .. web dev by passion ... grade 10 
 
 Connect with me on :
 <br>
-[chat with me on discord](https://discord.gg/WVKNWTg)
-[I usually post my progress , quizes and stuff](https://twitter.com/crafter_coder?s=09)
-[I have a goal to help as many people as I can:) with the help of youtube](https://www.youtube.com/c/CrafterCoder)
+[Chat with me on Discord](https://discord.gg/WVKNWTg) <br>
+[I usually post my progress , quizes and stuff](https://twitter.com/crafter_coder?s=09) <br>
+[I have a goal to help as many people as I can:) with the help of Youtube](https://www.youtube.com/c/CrafterCoder)
+<br>
+<hr>
