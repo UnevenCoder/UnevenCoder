@@ -4,7 +4,7 @@ I am 15 yo web dev ... youtuber cuz of hobby .. web dev by passion ... grade 10 
 
 
 - 🔭 I’m currently working on developing my web dev skills :)
-- 🌱 I’m currently learning css animations and reach
+- 🌱 I’m currently learning svelte
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Earth is a planet
 
