@@ -1,5 +1,5 @@
 ### Hi there My name is Ameen👋
-I am 15 yo web dev ... youtuber cuz of hobby .. web dev by passion ... grade 10 by our education system ...  nerd by student types ... ENFP by personality types (myers-brigs) .and  procastinator by choice ....  yeah that's pretty much it ..
+I am 16 y old aspiring webdev  ... ENFP by personality types (myers-brigs) and  procastinator by choice ....  yeah that's pretty much it ..
 <hr>
 
 
