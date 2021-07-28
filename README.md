@@ -5,8 +5,8 @@ I am 16 y old aspiring webdev  ... ENFP by personality types (myers-brigs) and  
 
 - 🔭 I’m currently working on developing my web dev skills :)
 - 🌱 I’m currently learning svelte
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: Earth is a planet
+- ⚡ Fun fact: We are living in a simulation
+
 
 Connect with me on :
 <br>
