@@ -1,5 +1,5 @@
 ### Hi there My name is Ameen👋
-In progress
+I'm a medical student [ soon to be Doctor ]  that loves to code.
 <hr>
 
 - 🔭 I’m currently working on developing my web dev skills :)
